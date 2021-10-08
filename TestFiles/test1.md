@@ -1,0 +1,3 @@
+![ARE-8408-AlertMail-2](github.com/DevOps/notes/cloud/images/![ARE-8408-AlertMail-2].png)
+![ARE-8408-AlertMail](github.com/DevOps/notes/cloud/images/![ARE-8408-AlertMail].png)
+![ARE-8408Actions](github.com/DevOps/notes/cloud/images/![ARE-8408Actions].png)
